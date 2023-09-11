@@ -1,0 +1,8 @@
+{
+  "name": "n1-camargo-p1",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^20.6.0"
+  }
+}
